@@ -1,0 +1,3 @@
+aws ec2 describe-instance-status --instance-id i-01be00446ff80aede
+
+aws ec2 start-instances --instance-ids i-01be00446ff80aede
